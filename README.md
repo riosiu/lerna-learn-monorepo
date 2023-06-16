@@ -1,6 +1,6 @@
 # Learn Lerna Repository
 
-This repository serves as a learning project for understanding and utilizing Lerna, a powerful tool for managing JavaScript projects with multiple packages.
+This repository serves as a learning project for understanding and utilizing Lerna, a powerful tool for managing Typescripts projects with multiple packages.
 
 ## Getting Started
 
